@@ -1,1 +1,9 @@
-{"requestChunkSize": 4096, "databaseLengthBytes": 119369728, "serverChunkSize": 52428800, "urlPrefix": "db.sqlite3.", "suffixLength": 3}
+
+{
+    "requestChunkSize": 4096,
+    "lastUpdated": 1609545600,
+    "databaseLengthBytes": 119369728,
+    "serverChunkSize": 52428800, "urlPrefix": "db.sqlite3.",
+    "suffixLength": 3
+}
+
